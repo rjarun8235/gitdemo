@@ -1,1 +1,3 @@
 Git Revision Project Notes
+- Understanding Git basics
+- Initial project setup completed
