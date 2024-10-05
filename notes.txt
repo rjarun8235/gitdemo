@@ -1,3 +1,5 @@
 Git Revision Project Notes
 - Understanding Git basics
 - Initial project setup completed
+- [ ] Add a to-do list feature
+- [ ] Implement branching workflow
