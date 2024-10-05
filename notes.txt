@@ -3,3 +3,4 @@ Git Revision Project Notes
 - Initial project setup completed
 - [ ] Add a to-do list feature
 - [ ] Implement branching workflow
+- [ ] continue
